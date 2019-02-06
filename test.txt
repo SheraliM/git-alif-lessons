@@ -6,5 +6,3 @@ My test text file
 
 --------------new line------------------
 asdasdasdad
-
-wrong line - mistake 
